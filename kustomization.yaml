@@ -3,4 +3,5 @@ bases:
 - components/build-service/base
 - components/managed-gitops/base
 - components/service-provider-integration-oauth/base
+- components/service-provider-integration-operator/base
 kind: Kustomization
